@@ -33,14 +33,13 @@ I'm Rohit — a cybersecurity student focused on **Network Security, firewalls, 
 
 ---
 ## 📂 Featured Projects
--**GNS3 — Secure Topologies**  
+
+- **GNS3 — Secure Topologies**  
   - Repository: `GNS3-topologies`  
-  - What: Layered network designs showing basic configurations, segmentation, and routing + reports.  
-  
+  - What: Layered network designs showing basic configurations, segmentation, and routing, along with accompanying reports.
 
 - **Dissertation (Research Teaser)**  
-  - Public Teaser: High-level goals, methodology, and stage-based roadmap.  
-
+  - Public Teaser: High-level goals, methodology, and stage-based roadmap (no sensitive algorithms or datasets exposed).  
 ---
 ## 🗺️ Dissertation Milestones
 

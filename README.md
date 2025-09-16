@@ -1,16 +1,50 @@
-## Hi there 👋
+<!-- Banner / Title -->
+<h1 align="center">Hi, I'm Rohit 👋</h1>
+<p align="center">
+  <strong>Cybersecurity Student</strong> · Network Security · Cloud Security · Threat Intelligence  
+  <br/>
+  <em>Focused on Network Security and proactive banking security research, turning ideas into practical, tested solutions.</em>
+</p>
 
-<!--
-**s-rohit11/s-rohit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/s-rohit11">
+    <img src="https://img.icons8.com/material-rounded/48/000000/github.png" alt="GitHub" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rohit-saravanan-b82a6a210">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About
+I'm Rohit — a cybersecurity student focused on **Network Security, firewalls, secure architectures, and banking fraud prevention research**. I build and break systems in controlled sandboxes (GNS3 / container labs) to understand how attackers operate and how defenders should respond. This GitHub is where I turn ideas into working artifacts: topologies, scripts, reports, and repeatable experiments.
+
+> Current focus: **Proactive Fraud Prevention in Banking Systems**
+
+---
+
+## 🧰 Skills & Tools
+- Network Security ![network](https://img.icons8.com/ios-filled/30/228BE6/network.png)  
+- Firewall Configuration ![firewall](https://img.icons8.com/ios-filled/30/FF6F00/firewall.png)  
+- GNS3 / Lab Infrastructure ![network-cable](https://img.icons8.com/ios-filled/30/4CAF50/network-cable.png)  
+- Cloud & Containers (in progress) ![cloud](https://img.icons8.com/ios-filled/30/26A69A/cloud.png)  
+
+---
+## 🗺️ Dissertation Milestones
+
+| Milestone | Progress |
+|-----------|---------|
+| Project Proposal & Research | ![70%](https://img.shields.io/badge/Project_Proposal_&_Research-70%25-brightgreen?style=for-the-badge) |
+| Preparation & Feasibility | ![15%](https://img.shields.io/badge/Preparation_&_Feasibility-15%25-brightgreen?style=for-the-badge) |
+| Proposal & Research — Professionalism | ![5%](https://img.shields.io/badge/Professionalism-5%25-brightgreen?style=for-the-badge) |
+| Implementation & Contribution | ![5%](https://img.shields.io/badge/Implementation_&_Contribution-5%25-brightgreen?style=for-the-badge) |
+| Evaluation | ![0%](https://img.shields.io/badge/Evaluation-0%25-lightgrey?style=for-the-badge) |
+
+## 🗺️ Personal / Certification Milestones
+
+| Milestone | Progress |
+|-----------|---------|
+| CompTIA Security+ | ![30%](https://img.shields.io/badge/CompTIA_Security+-30%25-brightgreen?style=for-the-badge) |
+| CCSK (Cloud Security Certification) | ![10%](https://img.shields.io/badge/CCSK-10%25-brightgreen?style=for-the-badge) |

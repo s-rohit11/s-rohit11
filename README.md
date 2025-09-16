@@ -32,6 +32,16 @@ I'm Rohit — a cybersecurity student focused on **Network Security, firewalls, 
 - Cloud & Containers (in progress) ![cloud](https://img.icons8.com/ios-filled/30/26A69A/cloud.png)  
 
 ---
+## 📂 Featured Projects
+-**GNS3 — Secure Topologies**  
+  - Repository: `GNS3-topologies`  
+  - What: Layered network designs showing basic configurations, segmentation, and routing + reports.  
+  
+
+- **Dissertation (Research Teaser)**  
+  - Public Teaser: High-level goals, methodology, and stage-based roadmap.  
+
+---
 ## 🗺️ Dissertation Milestones
 
 | Milestone | Progress |

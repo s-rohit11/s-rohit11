@@ -56,4 +56,4 @@ I'm Rohit — a cybersecurity student focused on **Network Security, firewalls, 
 | Milestone | Progress |
 |-----------|---------|
 | CompTIA Security+ | ![40%](https://img.shields.io/badge/CompTIA_Security+-30%25-brightgreen?style=for-the-badge) |
-| CEH (Certified Ethical Hacker) | ![20%](https://img.shields.io/badge/CCSK-10%25-brightgreen?style=for-the-badge) |
+| CEH [v13] (Certified Ethical Hacker) | ![20%](https://img.shields.io/badge/CEH-10%25-brightgreen?style=for-the-badge) |

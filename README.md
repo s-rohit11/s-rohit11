@@ -29,7 +29,7 @@ I'm Rohit — a cybersecurity student focused on **Network Security, firewalls, 
 - Network Security ![network](https://img.icons8.com/ios-filled/30/228BE6/network.png)  
 - Firewall Configuration ![firewall](https://img.icons8.com/ios-filled/30/FF6F00/firewall.png)  
 - GNS3 / Lab Infrastructure ![network-cable](https://img.icons8.com/ios-filled/30/4CAF50/network-cable.png)  
-- Cloud & Containers (in progress) ![cloud](https://img.icons8.com/ios-filled/30/26A69A/cloud.png)  
+- Cloud & Containers  ![cloud](https://img.icons8.com/ios-filled/30/26A69A/cloud.png)  
 
 ---
 ## 📂 Featured Projects
@@ -39,8 +39,12 @@ I'm Rohit — a cybersecurity student focused on **Network Security, firewalls, 
   - What: Layered network designs showing basic configurations, segmentation, and routing, along with accompanying reports.
 
 - **Dissertation (Research Teaser)**  
-  - Public Teaser: High-level goals, methodology, and stage-based roadmap (no sensitive algorithms or datasets exposed).  
----
+  - Public Teaser: High-level goals, methodology, and stage-based roadmap (no sensitive algorithms or datasets exposed).
+ 
+  - **TLS-DEMO**
+  - A Python demo that captures the full TLS handshake — from SNI, ALPN, and OCSP stapling to certificate parsing and session resumption — with benchmarking support for TLS 1.2 and TLS 1.3. 
+
+   --
 ## 🗺️ Dissertation Milestones
 
 | Milestone | Progress |
